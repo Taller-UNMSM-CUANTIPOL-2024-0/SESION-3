@@ -1,2 +1,4 @@
 # SESION-3
-Explración univariada
+Exploración univariada
+
+GitHUb Pages: https://taller-unmsm-cuantipol-2024-0.github.io/SESION-3/
