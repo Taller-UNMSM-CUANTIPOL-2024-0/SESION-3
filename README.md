@@ -1,6 +1,6 @@
 # [Sesión 3 - Exploración univariada ](https://taller-unmsm-cuantipol.github.io/SESION-3/)
 
-Taller-UNMSM-CUANTIPOL - 2023-2
+Taller-UNMSM-CUANTIPOL - 2024-0
 
 Editado por @[luccemhu](https://github.com/luccemhu)
 
